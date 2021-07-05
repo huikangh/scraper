@@ -1,0 +1,149 @@
+#GROUP MEMBERS:
+# Anuj Ramaswamy 39134771
+# Huikang Huang 58039679
+# Seong Su Park 63888411
+# Tyler Mos 51257367
+
+Unique Pages: 8404
+
+Longest Page: ('https://duttgroup.ics.uci.edu/publications/?limit=2&', 6604)
+
+50 Most Common Words: 
+research -> 26112
+computer -> 17242
+software -> 14253
+student -> 13901
+information -> 13899
+students -> 12184
+uci -> 12069
+engineering -> 10680
+will -> 10590
+news -> 9990
+informatics -> 9606
+graduate -> 9581
+data -> 9573
+ramesh -> 9450
+science -> 9387
+january -> 9286
+undergraduate -> 8990
+design -> 8744
+may -> 8348
+events -> 8093
+department -> 7835
+courses -> 7742
+ph -> 7667
+can -> 7579
+projects -> 7405
+people -> 7400
+past -> 7347
+ics -> 7241
+books -> 7195
+contact -> 7142
+current -> 7116
+computing -> 6810
+policies -> 6725
+september -> 6721
+course -> 6546
+november -> 6480
+june -> 6475
+support -> 6457
+october -> 6269
+university -> 6265
+school -> 6170
+december -> 6157
+august -> 6152
+july -> 6136
+new -> 6090
+systems -> 6088
+faculty -> 6029
+search -> 5923
+march -> 5870
+irvine -> 5811
+
+Subdomain in ics.uci.edu: (totally 86) 
+acoi.ics.uci.edu 50
+aiclub.ics.uci.edu 1
+archive.ics.uci.edu 5
+asterix-gerrit.ics.uci.edu 1
+asterix.ics.uci.edu 5
+calendar.ics.uci.edu 1
+cbcl.ics.uci.edu 3
+cert.ics.uci.edu 2
+chenli.ics.uci.edu 1
+cloudberry.ics.uci.edu 42
+cml.ics.uci.edu 141
+computableplant.ics.uci.edu 27
+coronavirustwittermap.ics.uci.edu 1
+cradl.ics.uci.edu 18
+create.ics.uci.edu 4
+cwicsocal18.ics.uci.edu 10
+cyberclub.ics.uci.edu 1
+duttgroup.ics.uci.edu 85
+elms.ics.uci.edu 1
+emj.ics.uci.edu 30
+esl.ics.uci.edu 1
+evoke.ics.uci.edu 33
+flamingo.ics.uci.edu 2
+fr.ics.uci.edu 3
+frost.ics.uci.edu 1
+futurehealth.ics.uci.edu 7
+grape.ics.uci.edu 12
+graphics.ics.uci.edu 2
+graphmod.ics.uci.edu 1
+hack.ics.uci.edu 1
+hai.ics.uci.edu 1
+hana.ics.uci.edu 13
+helpdesk.ics.uci.edu 1
+hombao.ics.uci.edu 1
+honors.ics.uci.edu 14
+i-sensorium.ics.uci.edu 1
+iasl.ics.uci.edu 4
+informatics.ics.uci.edu 1
+intranet.ics.uci.edu 1
+ipf.ics.uci.edu 2
+ipubmed.ics.uci.edu 1
+isg.ics.uci.edu 131
+jgarcia.ics.uci.edu 19
+keys.ics.uci.edu 1
+mailman.ics.uci.edu 4
+malek.ics.uci.edu 1
+mcs.ics.uci.edu 32
+mdogucu.ics.uci.edu 1
+mds.ics.uci.edu 11
+mhcid.ics.uci.edu 15
+mondego.ics.uci.edu 3
+mse.ics.uci.edu 1
+mswe.ics.uci.edu 20
+nalini.ics.uci.edu 7
+ngs.ics.uci.edu 1498
+password.ics.uci.edu 1
+perennialpolycultures.ics.uci.edu 1
+plrg.ics.uci.edu 14
+psearch.ics.uci.edu 1
+redmiles.ics.uci.edu 5
+riscit.ics.uci.edu 1
+scale.ics.uci.edu 1
+sconce.ics.uci.edu 2
+sdcl.ics.uci.edu 188
+seal.ics.uci.edu 6
+sherlock.ics.uci.edu 1
+sli.ics.uci.edu 299
+sprout.ics.uci.edu 2
+stairs.ics.uci.edu 1
+statconsulting.ics.uci.edu 4student-council.ics.uci.edu 1
+studentcouncil.ics.uci.edu 1
+support.ics.uci.edu 2
+swiki.ics.uci.edu 1
+tastier.ics.uci.edu 1
+tippersweb.ics.uci.edu 2
+transformativeplay.ics.uci.edu 52
+tutors.ics.uci.edu 1
+ugradforms.ics.uci.edu 1
+unite.ics.uci.edu 10
+vision.ics.uci.edu 7
+wearablegames.ics.uci.edu 10
+wics.ics.uci.edu 346
+www-db.ics.uci.edu 10
+www.ics.uci.edu 1027
+www.informatics.ics.uci.edu 1
+xtune.ics.uci.edu 6
